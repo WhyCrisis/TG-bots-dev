@@ -1,6 +1,9 @@
-[submodule "Simple-start-menu-for-TG-bots"]
+[submodule "Diabetes"]
 	path = Simple-start-menu-for-TG-bots
 	url = https://github.com/WhyCrisis/Simple-start-menu-for-TG-bots
 [submodule "Tg-Bot-to-MTG-Mods-With-Scripts"]
 	path = Tg-Bot-to-MTG-Mods-With-Scripts
 	url = https://github.com/WhyCrisis/Tg-Bot-to-MTG-Mods-With-Scripts
+[submodule "Simple-start-menu-for-TG-bots"]
+	path = Simple-start-menu-for-TG-bots
+	url = https://github.com/WhyCrisis/Simple-start-menu-for-TG-bots
